@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Papers
+title: LatinCy 2026 Call for Papers
 ---
 
 # LatinCy Developers/Users First Annual Meeting
