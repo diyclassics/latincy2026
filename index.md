@@ -5,7 +5,7 @@ title: Call for Papers
 
 # LatinCy Developers/Users First Annual Meeting
 *Online and In-Person at the Institute for the Study of the Ancient World*  
-*February 27, 2026 // 10AM – 6PM Eastern Time*
+*February 27, 2026* • *10AM – 6PM Eastern Time*
 
 **Proposals Due: December 30, 2025 • Notification of Acceptance: January 27, 2026**
 
