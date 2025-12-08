@@ -32,6 +32,6 @@ Proposals of 150-200 words for presentations in Panels #1 and #2 should be email
 *This meeting is organized by <a href="https://github.com/diyclassics/" target="_blank">Patrick J. Burns</a> and the <a href="https://huggingface.co/latincy" target="_blank">LatinCy</a> project, with support from the <a href="https://isaw.nyu.edu/library" target="_blank">Institute for the Study of the Ancient World Library</a>.*
 
 <div style="text-align: center; margin-top: 30px;">
-  <a href="https://huggingface.co/latincy" target="_blank"><img src="/assets/img/latincy-la-logo.png" alt="LatinCy Logo" style="max-height: 150px; margin-right: 25px;"></a>
-  <a href="https://isaw.nyu.edu/" target="_blank"><img src="/assets/img/isaw-logo.png" alt="ISAW Logo" style="max-height: 150px; margin-left: 25px;"></a>
+  <a href="https://huggingface.co/latincy" target="_blank"><img src="{{ site.baseurl }}/assets/img/latincy-la-logo.png" alt="LatinCy Logo" style="max-height: 150px; margin-right: 25px;"></a>
+  <a href="https://isaw.nyu.edu/" target="_blank"><img src="{{ site.baseurl }}/assets/img/isaw-logo.png" alt="ISAW Logo" style="max-height: 150px; margin-left: 25px;"></a>
 </div>
