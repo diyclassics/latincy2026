@@ -1,9 +1,9 @@
 ---
 layout: page
-title: LatinCy 2026 Call for Papers
+# title: LatinCy 2026 Call for Papers
 ---
 
-# LatinCy Developers/Users First Annual Meeting
+# CFP: LatinCy Developers/Users First Annual Meeting
 *Online and In-Person at the Institute for the Study of the Ancient World*  
 *February 27, 2026* • *10AM – 6PM Eastern Time*
 
