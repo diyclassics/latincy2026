@@ -7,7 +7,7 @@ title: LatinCy Developers/Users First Annual Meeting
 *Online and In-Person at the Institute for the Study of the Ancient World*  
 *February 27, 2026* • *10AM – 6PM Eastern Time*
 
-**Proposals Due: December 30, 2025 • Notification of Acceptance: January 27, 2026**
+**Proposals Due: ~~December 30~~ January 9, 2026 • Notification of Acceptance: January 27, 2026**
 
 Since the 2023 release of <a href="https://arxiv.org/abs/2305.04365" target="_blank">LatinCy</a>—pretrained Latin NLP pipelines for use with the <a href="https://spacy.io/" target="_blank">spaCy</a> framework—the pipelines and associated models and datasets have been downloaded hundreds of times and cited in several research papers. This year the pipelines will see their most important release yet: they are being refactored and rebuilt from scratch, such that they include components that are among the best performing on tasks such as Latin lemmatization, POS tagging, and morphological tagging. To recognize the occasion of the project's third "birthday," we are hosting the LatinCy Developers/Users First Annual Meeting, a hybrid event both online and in-person at the <a href="https://isaw.nyu.edu/" target="_blank">Institute for the Study of the Ancient World</a> on Friday **February 27, 2026**.
 
@@ -25,7 +25,7 @@ The twin goals of this meeting are (1) for LatinCy users to gain a better unders
 
 The meeting will be hybrid. Lunch will be served for in-person attendees and there will be a reception to follow the event.
 
-Proposals of 150-200 words for presentations in Panels #1 and #2 should be emailed to pjb311[at]nyu[dot]edu and are due Tuesday **December 30**. The proposals should include both (1) a description of the project/research goals and progress and (2) a description of how LatinCy/Latin BERT is used as part of the project/research workflow. Projects/work at all stages of development are encouraged to submit. Please indicate whether you would like to present remotely or in person. We will notify accepted presenters by **January 27**.
+Proposals of 150-200 words for presentations in Panels #1 and #2 should be emailed to pjb311[at]nyu[dot]edu and are due ~~Tuesday December 30~~ Friday **January 9, 2026**. The proposals should include both (1) a description of the project/research goals and progress and (2) a description of how LatinCy/Latin BERT is used as part of the project/research workflow. Projects/work at all stages of development are encouraged to submit. Please indicate whether you would like to present remotely or in person. We will notify accepted presenters by **January 27**.
 
 ---
 <!-- <br/>   -->

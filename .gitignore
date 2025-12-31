@@ -5,3 +5,7 @@ _site/
 vendor/
 .bundle/
 Gemfile.lock
+
+# macOS system files
+.DS_Store
+assets/.DS_Store
