@@ -2,3 +2,7 @@ title: LatinCy First Annual Meeting
 baseurl: "/latincy2026"
 url: "https://diyclassics.github.io"
 theme: minima
+
+header_pages:
+  - index.md
+  - program.md
