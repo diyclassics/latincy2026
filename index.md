@@ -9,6 +9,8 @@ title: LatinCy Developers/Users First Annual Meeting
 
 **[View the full meeting program →]({{ site.baseurl }}/program)**
 
+**[Register for the meeting →](https://forms.gle/eEQ2iLhQwwFTELF67)**
+
 ~~**Proposals Due: originally December 30, extension January 9, 2026 • Notification of Acceptance: January 27, 2026**~~
 
 Since the 2023 release of <a href="https://arxiv.org/abs/2305.04365" target="_blank">LatinCy</a>—pretrained Latin NLP pipelines for use with the <a href="https://spacy.io/" target="_blank">spaCy</a> framework—the pipelines and associated models and datasets have been downloaded hundreds of times and cited in several research papers. This year the pipelines will see their most important release yet: they are being refactored and rebuilt from scratch, such that they include components that are among the best performing on tasks such as Latin lemmatization, POS tagging, and morphological tagging. To recognize the occasion of the project's third "birthday," we are hosting the LatinCy Developers/Users First Annual Meeting, ~~a hybrid event both online and in-person at the Institute for the Study of the Ancient World~~ a fully remote event on Friday **February 27, 2026**.

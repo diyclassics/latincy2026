@@ -7,6 +7,8 @@ title: Meeting Program
 *February 27, 2026* • *10AM – 5PM Eastern Time*
 *Fully Remote*
 
+**[Register for the meeting →](https://forms.gle/eEQ2iLhQwwFTELF67)**
+
 ---
 
 ### 10:00–10:45 — LatinCy at 3: State-of-the-Project Report and Development Plan
