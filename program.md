@@ -22,7 +22,7 @@ title: Meeting Program
   Samuel Huskey
 
 - **<i>Project Lingua ex machina</i> / Language Machine**
-  Adam Gitner & Edward C. Zimmermann
+  Edward C. Zimmermann
 
 - **Effects of OCR Noise on LatinCy Outputs**
   Philip Booth
